@@ -366,12 +366,7 @@ namespace Tournois.coucheAccesDB
             }
                 return ok;
 
-            
-            
         }
-
-            
-       
 
 
             // Lister les rencontres
